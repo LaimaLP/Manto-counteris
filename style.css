@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+background-color: rgb(228, 213, 193);
+
+}
+
+
+
+.conteiner{
+    background-color: rgb(162, 143, 180);
+    width: 450px;
+    height: 200px;
+    text-align: center;
+    border-radius: 6px;
+    
+    
+}
+
+h1{
+    color:black
+}
+
+
+.buttons-conteiner{
+    width: 100%;
+ justify-content: center;
+  display: flex;
+  gap: 30px;
+}
+
+
+
+button{
+    padding: 10px 30px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
